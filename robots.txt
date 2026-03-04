@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationfortcollins.com/sitemap.xml
